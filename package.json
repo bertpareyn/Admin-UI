@@ -3,7 +3,7 @@
     "description" : "Admin UI is a node module that takes a configuration file and generates an administrative UI for a given endpoint.",
     "version" : "1.0.0",
     "author" : "Sakai Foundation",
-    "main" : "adminui.js",
+    "main" : "lib/main.js",
     "engines": {
       "node": "*"
     },
