@@ -1,0 +1,14 @@
+{
+    "name" : "admin-ui",
+    "description" : "Admin UI is a node module that takes a configuration file and generates an administrative UI for a given endpoint.",
+    "version" : "1.0.0",
+    "author" : "Sakai Foundation",
+    "main" : "adminui.js",
+    "engines": {
+      "node": "*"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/bp323/Admin-UI.git"
+    }
+}
